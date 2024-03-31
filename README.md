@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/divyanshmishra57/))
-[//]<> [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)]([https://twitter.com/yourusername](https://twitter.com/divyansh400))
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)]([https://twitter.com/divyansh400](https://twitter.com/divyansh400))
 
 
 ## About Me
