@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/divyansh400?style=social)]([https://twitter.com/divyansh400](https://twitter.com/divyansh400))
 
-[![An image of @itsdivyansh201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsdivyansh201)](https://holopin.io/@itsdivyansh201)
+
 
 
 ## About Me
@@ -14,3 +14,5 @@ I am Divyansh Mishra, a passionate web developer who enjoys building unique proj
 
 I'm currently focused on enhancing my skills in Python
 
+
+[![An image of @itsdivyansh201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsdivyansh201)](https://holopin.io/@itsdivyansh201)
