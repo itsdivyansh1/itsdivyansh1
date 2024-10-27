@@ -19,8 +19,7 @@
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdivyansh1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdivyansh1&layout=compact)](https://github.com/itsdivyansh1)
-![3D GitHub Contribution Graph](https://github.com/itsdivyansh1/github-profile-3d-contrib/blob/main/output/github-contribution-grid-snake.gif)
-![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/tech-stack?username=itsdivyansh1)
 
 ---
 
