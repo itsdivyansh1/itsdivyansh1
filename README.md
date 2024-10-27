@@ -19,7 +19,6 @@
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdivyansh1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdivyansh1&layout=compact)](https://github.com/itsdivyansh1)
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/tech-stack?username=itsdivyansh1)
 
 ---
 
