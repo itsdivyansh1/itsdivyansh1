@@ -5,7 +5,7 @@
 
 
 
-## About Me
+<h1 align="center">About Me</h1>
 
 I am Divyansh Mishra, a passionate web developer who enjoys building unique projects in my spare time
 
