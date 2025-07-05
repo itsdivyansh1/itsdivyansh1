@@ -25,15 +25,22 @@
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/divyanshmishra57/))
-[![Twitter Follow](https://img.shields.io/twitter/follow/divyansh400?style=social)]([https://twitter.com/divyansh400](https://twitter.com/divyansh400))
-
 ### 📫 Connect with Me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/divyansh400?style=social)](https://x.com/divyansh400)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-%40divyansh.404-E4405F?style=social&logo=instagram)](https://www.instagram.com/_divyansh_57/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/divyanshmishra57/)
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=social&logo=google-chrome)](https://itsdivyansh.vercel.app/)
+<p align="center">
+  <a href="https://x.com/divyansh400" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/divyansh400?style=social" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/_divyansh_57/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40_divyansh_57-E4405F?style=social&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyanshmishra57/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://itsdivyansh.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=social&logo=google-chrome" alt="Portfolio" />
+  </a>
+</p>
+
 
 
