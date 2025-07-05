@@ -35,3 +35,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/divyanshmishra57/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/divyansh400?style=social)]([https://twitter.com/divyansh400](https://twitter.com/divyansh400))
 
+### 📫 Connect with Me
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/divyansh400?style=social)]([https://twitter.com/divyansh400](https://x.com/divyansh400))
+[![Instagram Follow](https://img.shields.io/badge/Instagram-%40divyansh.404-E4405F?style=social&logo=instagram)]([https://instagram.com/divyansh.404](https://www.instagram.com/_divyansh_57/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)]([https://linkedin.com/in/divyansh400](https://www.linkedin.com/in/divyanshmishra57/))
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=social&logo=google-chrome)]([https://devwhizz.me](https://itsdivyansh.vercel.app/))
+
+
