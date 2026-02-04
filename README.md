@@ -36,6 +36,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40divyansh400-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/divyansh400)
 [![Instagram](https://img.shields.io/badge/Instagram-%40_divyansh_57-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_divyansh_57/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh%20Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshmishra57/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-itsdivyansh.vercel.app-2E8B57?style=flat-square&logo=google-chrome&logoColor=white)](https://itsdivyansh.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-divyanshmishra.in-2E8B57?style=flat-square&logo=google-chrome&logoColor=white)](https://divyanshmishra.in/)
 
 
